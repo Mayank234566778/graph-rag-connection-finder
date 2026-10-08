@@ -23,4 +23,4 @@ Add your own `.txt` files to `data/docs/`, then rebuild.
 ## Example
 `Karan Singh -[works at]-> Sequoia Capital -[invested in]-> NeuraLabs <-[signed a contract with]- HDFC Bank`
 
-## Graph
+echo '![Graph](graph.png)' >> README.mdph
