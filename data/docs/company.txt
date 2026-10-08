@@ -1,0 +1,3 @@
+Priya Sharma founded NeuraLabs in Bangalore. NeuraLabs builds fraud detection models for banks. Arjun Mehta joined NeuraLabs as head of research. Arjun Mehta previously worked at Google Brain.
+
+Priya Sharma studied at IIT Delhi. Rohan Verma also studied at IIT Delhi. Rohan Verma founded DataBridge in Mumbai. DataBridge supplies labeled datasets to NeuraLabs.
