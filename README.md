@@ -23,5 +23,3 @@ Add your own `.txt` files to `data/docs/`, then rebuild.
 ## Example
 `Karan Singh -[works at]-> Sequoia Capital -[invested in]-> NeuraLabs <-[signed a contract with]- HDFC Bank`
 
-## Resume bullet
-Built a Graph RAG system (Python, NetworkX, scikit-learn, Claude API) that extracts knowledge-graph triples, combines vector and graph retrieval, and surfaces multi-hop entity connections; includes CLI, interactive graph visualization, and pytest suite.
